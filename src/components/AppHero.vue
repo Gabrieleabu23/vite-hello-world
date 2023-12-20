@@ -25,5 +25,6 @@ export default{
 }
 h1{
     color: black;
+    padding: 20px;
 }
 </style>
